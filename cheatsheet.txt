@@ -1,0 +1,14 @@
+ls- stands for "list" and look inside
+gedit: create and edit file
+cd .. : go up
+git: controlling the repository
+cd: Go home.
+gedit <file name> & : to work on terminal and edit the file at the same time
+cat <file name>: View the contents of a file
+cd <directory name>:  Change directory
+git status: to check what we did to the file
+git commit -m: "commit comment" 
+gedit push: to save the file at the end of the class
+gedit <new file name>: create and edit the new file
+gedit add <file name that exist>: to edit the file that already exist
+gedit clone: git clone --config="http.proxy=http://harry2474:harry0818923560@192.168.2.1:8080" https://github.com/harry2474-cmis/harry2474-cmis-wd.git
