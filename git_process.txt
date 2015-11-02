@@ -1,0 +1,12 @@
+Open Terminal (the black icon with an arrow and underline at the left bottom)
+Clone you repository by copy and shift-insert: git clone --config="http.proxy=http://harry2474:harry0818923560@192.168.2.1:8080" https://github.com/harry2474-cmis/harry2474-cmis-wd.git
+Go to the repository by typing cd harry2474-cmis
+To create a new file, you have to type "gedit git_process.txt"
+After finish typing everything, you save your work and then close it 
+Type git_process.txt into terminal
+type git add <git_process.txt.> 
+Type git_commit -m to see what changes did you make to the file.
+Type git push 
+type your username
+type your password
+Then close terminal 
