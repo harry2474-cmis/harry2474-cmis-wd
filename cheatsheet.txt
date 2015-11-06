@@ -19,3 +19,5 @@ cat (viewing the file)
 python -m SimpleHTTPServer (Start the development server)
 put <filename> - upload a file
 get <filename> - upload a file
+
+notes: akways start the sftp in the repository folder 
