@@ -19,5 +19,6 @@ cat (viewing the file)
 python -m SimpleHTTPServer (Start the development server)
 put <filename> - upload a file
 get <filename> - upload a file
-
+RM <FILENAME>- to remove the file from public folder
 notes: akways start the sftp in the repository folder 
+http://cmis-hsteacher/~harry2474-to view the public folder
