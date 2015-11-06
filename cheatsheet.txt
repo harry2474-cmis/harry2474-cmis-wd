@@ -22,3 +22,8 @@ get <filename> - upload a file
 RM <FILENAME>- to remove the file from public folder
 notes: akways start the sftp in the repository folder 
 http://cmis-hsteacher/~harry2474-to view the public folder
+ls * every file in my computer not mr.kieffer's computer
+!ls * every file in mr. kieffer's computer
+!ls *.txt/...-list all the file .txt file
+rm *-romove every file 
+notes: but you have to put the ls * or !ls * to go in the folder before removning
