@@ -27,3 +27,4 @@ ls * every file in my computer not mr.kieffer's computer
 !ls *.txt/...-list all the file .txt file
 rm *-romove every file 
 notes: but you have to put the ls * or !ls * to go in the folder before removning
+<link rel="stylesheet" href="main.css" type="text/css">: always add the link to the index.html file
