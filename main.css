@@ -1,10 +1,35 @@
 h1 {
 	font-family:georgia;
-	color:green;
-	font-size:40px;
+	color:66FF99;
+	font-size:60px;
+	background-color:yellow;
+	border-style:outset;
+	border-width: 19px;
 }
 h2 {
-	font-family:verdana;
+	font-family:"Times New Roman", Georgia, Serif;
 	color:blue;
 	font-size: 45px;
+	background-color:green;
+	border-style:dashed;
+	border-width:17px;
 }
+body {
+	border-style:double;
+}
+footer {
+	font-family:andele mono;
+	color:white;
+	font-style:31px;
+	background-color:red;
+	border-style: dashed;
+}
+main {
+	font-family:verdana,cursive;
+	color:yellow;
+	font-size:35px;
+	background-color:brown;
+	border-style:dashed;
+}
+
+
