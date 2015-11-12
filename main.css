@@ -1,6 +1,6 @@
 h1 {
-	font-family:georgia;
-	color:66FF99;
+	font-family:"Comic Sans MS", cursive, sans-ser;
+	color:#00FF66;
 	font-size:60px;
 	background-color:yellow;
 	border-style:outset;
@@ -8,28 +8,33 @@ h1 {
 }
 h2 {
 	font-family:"Times New Roman", Georgia, Serif;
-	color:blue;
-	font-size: 45px;
+	color:#0099FF;
+	font-size: 55px;
 	background-color:green;
-	border-style:dashed;
+	border-style:dotted dashed solid double;
 	border-width:17px;
 }
 body {
-	border-style:double;
+	border-style:outset;
+	background-color:#66FFCC;
+	border-width:30px;
+	border-color:#660066;
+	background-image:url ("8-12%20aloha.jpg");
 }
 footer {
-	font-family:andele mono;
-	color:white;
-	font-style:31px;
+	font-family:"Courier New", Courier, monospace;
+	color:#FFFFCC;
+	font-size:40px;
 	background-color:red;
 	border-style: dashed;
 }
 main {
-	font-family:verdana,cursive;
-	color:yellow;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color:#FFFF66;
 	font-size:35px;
 	background-color:brown;
 	border-style:dashed;
 }
+
 
 
