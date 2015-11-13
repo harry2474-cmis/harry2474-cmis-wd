@@ -1,0 +1,32 @@
+h1 {
+	Font-family:"Impact", Charcoal, sans-serif;
+	Font-style:Italic;
+	Background-color:#333300;
+	color:#FFFF33;
+}
+h2 {
+	Font-family:"Impact", Charcoal, sans-serif;
+	Font-style:Italic;
+	Background-color:#FFFF33;
+	color:#333300;
+	Font-size:15px;
+}
+h3 {
+	Background-color:#0000CC;
+	Color:#FFFF00;
+	Font-size:19px;
+	font-style:"Arial", Helvetica, sans-serif;
+}
+h4 {
+	background-color:#CC9933;
+	color:#0000CC;
+}
+p {
+	color:#0000CC;
+	Font-style:"Arial", Helvetica, sans-serif
+}
+footer {
+	color:black;
+	background-color:#CC6600;
+}
+
