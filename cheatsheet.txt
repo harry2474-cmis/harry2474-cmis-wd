@@ -2,7 +2,7 @@ ls- stands for "list" and look inside
 gedit: create and edit file
 cd .. : go up
 git: controlling the repository
-cd: Go home (inside the folder).
+cd (!!!!!): Go home (inside the folder).
 gedit <file name> & : to work on terminal and edit the file at the same time
 cat <file name>: View the contents of a file
 cd <directory name>:  Change directory
@@ -36,3 +36,4 @@ sftp harry2474@cmis-hsteacher (to login into sftp) then enter the password
 type "yes" to enter the password
 start the sftp in the sub folder to work on the index.html file in the sub folder
 cd public.html: to get into public file 
+target="_blank">: type this after the link for the user to view the link in a new web page.
