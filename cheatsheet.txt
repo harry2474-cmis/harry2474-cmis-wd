@@ -35,5 +35,5 @@ cd .. :(to go back to main folder)
 sftp harry2474@cmis-hsteacher (to login into sftp) then enter the password
 type "yes" to enter the password
 start the sftp in the sub folder to work on the index.html file in the sub folder
-cd public.html: to get into public file 
+cd public_html: to get into public file 
 target="_blank">: type this after the link for the user to view the link in a new web page.
