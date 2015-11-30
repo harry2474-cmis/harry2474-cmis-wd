@@ -35,6 +35,21 @@ main {
 	background-color:brown;
 	border-style:dashed;
 }
-
+h3 {
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color:#3366FF;
+	font-style:italic;
+	background-color:#33FF66;
+	border-style:solid;
+	font-size:39px;
+}
+p {
+	background-color:#99FF00;
+	border-style:dashed;
+}
+h4 {
+	background-color:#FF6699;
+	color:#99FF99;
+}
 
 
