@@ -39,3 +39,6 @@ cd public_html: to get into public file
 target="_blank">: type this after the link for the user to view the link in a new web page.
 colspan="2": to expand row vertically
 rowspan "3": to expand row horizontally
+
+http://cmis-hsteacher/bomin2406/filename
+http://cmis-hsteacher/bomin2406/foldername/filename
