@@ -1,11 +1,50 @@
-table tr {
-		background-color:#FF9999;
-		padding:20px;
-		border:10px green;
-		margin:40px;
-		width: 100px;
-		border:  7px dashed;
+header > h1{
+	background-color: #66FF99;
+	width:100px;
+	padding: 50px;
+	border: 30px solid black;
+	margin: 25px;
 }
-th{
-		border: 80px groove red; 
+h1{
+	background-color: #66FFCC;
+	width:160px;
+	padding: 60px;
+	border: 35px solid black;
+	margin: 20px;
+}
+h2{
+	background-color: red;
+	width:140px;
+	padding: 40px;
+	border: 20px inset white;
+	margin: 10px;
+}		
+main h2{
+	background-color: #00CCFF;
+	width:110px;
+	padding: 15px;
+	border: 15px solid black;
+	margin: 230px;	
+}
+header ~ main{
+	background-color: #CCFFCC;
+	width:510px;
+	padding: 40px;
+	border-color: red black red;
+	border-style: solid;
+	margin: 30px;
+}
+header + nav{
+	background-color:green;
+	width:100px;
+	padding: 50px;
+	border: 20px ridge gray;
+	margin: 25px;
+}
+head ~ body{
+	background-color:LightCyan;
+	width:900px;
+	padding: 50px;
+	border: 20px double white;
+	margin: 25px;
 }
