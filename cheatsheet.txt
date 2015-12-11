@@ -34,6 +34,7 @@ cd .. :(to go back to main folder)
 target="_blank">: type this after the link for the user to view the link in a new web page.
 colspan="2": to expand row vertically
 rowspan "3": to expand row horizontally
+*when you edit every file in the sub folder and if you don't want to do git push many time then just cd <harry2474-cmis-wd> and then type git add <sub folder name>.
 
 sftp
 http://cmis-hsteacher/harry2474/filename
@@ -48,3 +49,8 @@ stfp (first in the git you should go to the folder that you want to upload to an
 * {
 	outline: dashed red 1px;
 } (outline for everything)
+
+
+*only for final project:-
+write float:... in the css not html.
+
