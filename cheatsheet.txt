@@ -43,3 +43,8 @@ http://cmis-hsteacher/~harry2474-to view the public folder
 type "yes" to enter the password
 cd public_html: to get into public file
 start the sftp in the sub folder to work on the index.html file in the sub folder
+stfp (first in the git you should go to the folder that you want to upload to and then start sftp from there)
+
+* {
+	outline: dashed red 1px;
+} (outline for everything)
