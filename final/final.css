@@ -1,11 +1,10 @@
-* {
-	outline: dashed red 1px;
-}
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
 h1 {
 	border: groove;
-	border-color: green;
+	border-color: #FFE400;
 	background: yellow;
 	border-width: 40px;
+	font-family:'Pacifico', cursive;
 }
 nav {
 	border: groove;
@@ -15,10 +14,15 @@ nav {
 	border-width: 30px;
         float:left; 
 }
+main {
+	margin-left: 361px;
+}
 article {
-	clear: right;
-	float: right;
 	width: 1200px;
+	height: 600px;
+	border: inset;
+	background: #99FFFF;
+	border-width: 11px;
 }
 h4 {
 	border: groove;
@@ -29,17 +33,10 @@ h4 {
 p {
 	border: solid #99FF33 10px;
 }
-ul {
-	border: inset;
-	background: #99FFFF;
-	border-width: 11px;
-}
 body {
-	background-image:url("http://40.media.tumblr.com/8bb5830036b7ac32565acd53c1f140d0/tumblr_n2lq5lwa8H1sikueao1_1280.jpg");
+	background-image:url("http://25.media.tumblr.com/tumblr_m81bemWVEN1ra7exvo1_1280.jpg");
 }
 img {
 	float: right;
-	clear: right;	
 }
 
-	
