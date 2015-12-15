@@ -7,11 +7,11 @@ h1 {
 	font-family:'Pacifico', cursive;
 }
 nav {
-	border: groove;
+	border: dashed;
 	border-color: blue;
 	background-color: yellow;
 	width: 300px;
-	border-width: 30px;
+	border-width: 19px;
         float:left; 
 }
 main {
@@ -38,5 +38,15 @@ body {
 }
 img {
 	float: right;
+	margin-top: 45px;
+   	margin-bottom: 100px;
+   	margin-right: 140px;
+   	margin-left: 90px;
+}
+h3 {
+	border: solid;
+	border-width: 18px;
+	border-color: green;
+	background-color: red;
 }
 
