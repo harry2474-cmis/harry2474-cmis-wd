@@ -1,27 +1,31 @@
 @import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans);
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville);
+@import url(https://fonts.googleapis.com/css?family=Bree+Serif);
 h1 {
-	border: groove;
-	border-color: #FFE400;
-	background: yellow;
+	background-image: url("images/Neonpattern4.jpg");
 	border-width: 40px;
 	font-family:'Pacifico', cursive;
+	color: #423939;
+	font-size: 35px;
 }
 nav {
-	border: dashed;
-	border-color: blue;
-	background-color: yellow;
 	width: 300px;
-	border-width: 19px;
+	border: solid;	
+	border-color: #45B1B1;
+	border-width: 5px;
         float:left; 
+	background-image: url("images/yay.jpg");
 }
 main {
-	margin-left: 361px;
+	margin-left: 320px;
 }
 article {
 	width: 1200px;
 	height: 600px;
 	border: inset;
-	background: #99FFFF;
+	background-image: url("images/yay2.jpg");
 	border-width: 11px;
 }
 h4 {
@@ -32,21 +36,47 @@ h4 {
 }
 p {
 	border: solid #99FF33 10px;
+	background: #E6E6E6;
 }
 body {
-	background-image:url("http://25.media.tumblr.com/tumblr_m81bemWVEN1ra7exvo1_1280.jpg");
+	background-image:url("images/yay3.jpg");
 }
 img {
 	float: right;
-	margin-top: 45px;
    	margin-bottom: 100px;
    	margin-right: 140px;
    	margin-left: 90px;
+	clear: right;
 }
 h3 {
-	border: solid;
-	border-width: 18px;
-	border-color: green;
-	background-color: red;
+	border: solid white 12px;
+	color: #F32424;
+	height: 11em;
+	font-size: 43px;
+	background-image: url("images/yay4.jpg");
+	float: right;
+	clear: right;
+	font-family:'Lato', sans-serif;
 }
+ul{
+	width: 200px;
+	background: #EDDEDE;
+	border: dashed #E4DF08 10px;
+	font-family:'Bree Serif', serif;
+}
+h2 {
+	background-image: url("images/Neonpattern4.jpg");
+	color: #423939;
+	font-size: 29px;
+	width: 370px;
+	font-family:'Alegreya Sans', sans-serif;
+}
+footer {
+	background: #7DD330;
+	width: 370px;
+}
+h4 {
+	font-family:'Libre Baskerville', serif;
+}
+ 
 
