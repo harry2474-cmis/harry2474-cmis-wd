@@ -46,7 +46,7 @@ img {
    	margin-bottom: 100px;
    	margin-right: 140px;
    	margin-left: 90px;
-	clear: right;
+	clear: both;
 }
 h3 {
 	border: solid white 12px;
@@ -71,12 +71,11 @@ h2 {
 	width: 370px;
 	font-family:'Alegreya Sans', sans-serif;
 }
-footer {
-	background: #7DD330;
-	width: 370px;
-}
 h4 {
 	font-family:'Libre Baskerville', serif;
 }
- 
+footer{
+	clear:both;
+	color: white;
+}
 
